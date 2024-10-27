@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-quiz-land",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtpietrzak/eslint-plugin-quiz-land.git"
+  },
+  "keywords": [
+    "quiz-land"
+  ],
+  "author": "David Pietrzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtpietrzak/eslint-plugin-quiz-land/issues"
+  },
+  "homepage": "https://github.com/dtpietrzak/eslint-plugin-quiz-land#readme"
+}
